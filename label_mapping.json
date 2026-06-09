@@ -1,0 +1,8 @@
+{
+    "Politics": 0,
+    "Business": 1,
+    "Sports": 2,
+    "Crime": 3,
+    "Education": 4,
+    "Health": 5
+}

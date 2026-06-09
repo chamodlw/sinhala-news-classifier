@@ -1,0 +1,9 @@
+torch
+transformers[torch]
+datasets
+pandas
+scikit-learn
+tqdm
+accelerate
+flask
+flask-cors
