@@ -9,7 +9,8 @@ Here is how you can use this model to categorize new Sinhala news content.
 The easiest way to test the model manually is by running `predict.py` in interactive mode. This will open a prompt where you can paste any Sinhala text and immediately get the prediction.
 
 ```powershell
-python predict.py
+.\venv\Scripts\Activate.ps1 
+python predict.py 
 ```
 
 **Example Session:**
